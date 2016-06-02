@@ -1,0 +1,22 @@
+﻿{
+  "version": "1.0.0-*",
+  "title": "NClock",
+  "description": "Provides testable and mockable clock implementations",
+  "authors": [ "Matthew King" ],
+  "copyright": "Copyright Matthew King 2016",
+  "packOptions": {
+    "projectUrl": "https://github.com/MatthewKing/NClock",
+    "licenseUrl": "https://opensource.org/licenses/MIT"
+  },
+  "buildOptions": {
+    "xmlDoc": true
+  },
+  "frameworks": {
+    "net20": { },
+    "netstandard1.0": {
+      "dependencies": {
+        "System.Runtime": "4.1.0-rc2-24027"
+      }
+    }
+  }
+}
