@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>NClock</PackageId>
+    <Title>NClock</Title>
+    <Description>Provides testable and mockable clock implementations.</Description>
+    <Author>Matthew King</Author>
+    <Copyright>Copyright 2016-2017 Matthew King.</Copyright>
+    <PackageProjectUrl>https://github.com/MatthewKing/NClock</PackageProjectUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageTags>clock</PackageTags>
+    <VersionPrefix>1.0.0</VersionPrefix>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;netstandard2.0</TargetFrameworks>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+</Project>
