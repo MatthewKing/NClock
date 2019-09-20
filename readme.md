@@ -55,7 +55,7 @@ Installation
 
 Copyright
 ---------
-Copyright Matthew King 2016-2017.
+Copyright Matthew King 2016-2019.
 
 License
 -------

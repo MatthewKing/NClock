@@ -5,7 +5,8 @@
     <Title>NClock</Title>
     <Description>Provides testable and mockable clock implementations.</Description>
     <Authors>Matthew King</Authors>
-    <Copyright>Copyright 2016-2017 Matthew King.</Copyright>
+    <Copyright>Copyright 2016-2019 Matthew King.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/MatthewKing/NClock</PackageProjectUrl>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageTags>clock</PackageTags>
