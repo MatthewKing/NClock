@@ -9,7 +9,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/MatthewKing/NClock</PackageProjectUrl>
     <PackageTags>clock</PackageTags>
-    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionPrefix>1.1.0</VersionPrefix>
   </PropertyGroup>
 
   <PropertyGroup>
