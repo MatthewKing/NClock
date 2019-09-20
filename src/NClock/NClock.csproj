@@ -8,7 +8,6 @@
     <Copyright>Copyright 2016-2019 Matthew King.</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/MatthewKing/NClock</PackageProjectUrl>
-    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageTags>clock</PackageTags>
     <VersionPrefix>1.0.0</VersionPrefix>
   </PropertyGroup>
